@@ -277,6 +277,11 @@ input[type="submit" i]:hover{
   .product-items img{
     width: 300px;
   }
+
+  .showcase-btn{
+    padding-top: 100px;
+  }
+
 }
 
 

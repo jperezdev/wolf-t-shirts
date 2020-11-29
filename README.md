@@ -7,3 +7,4 @@ This project is part of the 5 required to obtain the web design certification of
 ![](img/project-3.PNG)
 ![](img/project-4.PNG)
 ![](img/project-5.PNG)
+![](img/project-6.PNG)

@@ -1,4 +1,4 @@
-# Wolf-t Shirts (Build in HTML & CSS)
+# Wolf-T Shirts (Build in HTML & CSS)
 
 This project is part of the 5 required to obtain the web design certification of freecodecamp.org
 
